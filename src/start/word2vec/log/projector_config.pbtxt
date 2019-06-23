@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embeddings/Variable:0"
+  metadata_path: "G:\\projects\\python\\tensorflow\\src\\start\\word2vec\\log\\metadata.tsv"
+}
