@@ -227,7 +227,7 @@ def word2vec_basic(log_dir):
         saver = tf.train.Saver()
 
     # Step 5: Begin training.
-    num_steps = 1001
+    num_steps = 200000
 
     with tf.Session(graph=graph) as session:
         # Open a writer to write summaries.
